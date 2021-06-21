@@ -14,7 +14,11 @@
 
 ### Controles : 
 - [x] mouse
- 
+
+## What you need to use the programm? 
+* All the folder compiled game
+- You just launch morpion.exe
+
 ## Website : 
 
 - [Pico programms](https://infinityfree.net/)
